@@ -1,2 +1,2 @@
 # Study with others
-###Javascript 100제
+### Javascript 100제
